@@ -1,4 +1,16 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm Aurag and I'm a computer science student from India. Here's some info about me!
+
+⚡ Work experience: <br>
+- **CO-Founder** at [sarvector.com](https://www.sarvector.com/) [Present]
+- **HackerEarth Campus Ambassador** [2023 - 2024]
+- **Secretary** - Association of Computer Science Students (ACES) at MIT Polytechnic. [2023 - 2024]
+- **Frontend Developer Intern** - Furnomech - Designer Modular Furniture. [Summer 2023]
+
+🌱 Interests:
+- Building products.
+- Designing.
 
 <!--
 **anuuragg/anuuragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
