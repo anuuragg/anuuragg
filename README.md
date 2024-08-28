@@ -10,7 +10,6 @@ I'm Aurag and I'm a computer science student from India. Here's some info about 
 
 🌱 Interests:
 - Building products.
-- Designing.
 
 <!--
 **anuuragg/anuuragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
