@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aurag and I'm a computer science student from India. Here's some info about me!
+I'm Anurag and I'm a computer science student from India. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **CO-Founder** at [sarvector.com](https://www.sarvector.com/) [Present]
