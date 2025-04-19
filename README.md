@@ -7,11 +7,11 @@ I'm Anurag and I'm a computer science student from India. Here's some info about
 - **HackerEarth Campus Ambassador** [2023 - 2024]
 - **Secretary** - Association of Computer Science Students (ACES) at MIT Polytechnic. [2023 - 2024]
 - **Frontend Developer Intern** - Furnomech - [Summer 2023]
-
+<!--
 🌱 Interests:
 - Building products.
 
-<!--
+
 **anuuragg/anuuragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
